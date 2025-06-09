@@ -1,0 +1,22 @@
+{
+    "grid_size": 4,
+    "sound_enabled": true,
+    "dark_mode": true,
+    "scores": [
+        {
+            "name": "Player",
+            "moves": 13,
+            "time": 18
+        },
+        {
+            "name": "Player",
+            "moves": 17,
+            "time": 22
+        },
+        {
+            "name": "Player 2",
+            "moves": 21,
+            "time": 24
+        }
+    ]
+}
